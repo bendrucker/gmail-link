@@ -1,4 +1,4 @@
-# gmail-link [![Build Status](https://travis-ci.org/bendrucker/gmail-link.svg?branch=master)](https://travis-ci.org/bendrucker/gmail-link)
+# gmail-link [![Build Status](https://travis-ci.org/bendrucker/gmail-link.svg?branch=master)](https://travis-ci.org/bendrucker/gmail-link) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/gmail-link.svg)](https://greenkeeper.io/)
 
 > Generate a Gmail compose link
 
